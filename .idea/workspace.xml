@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659d3d28-e911-45d6-9b5a-9ddc10b96400" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testings/testcases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/api/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/api/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/api/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +82,7 @@
       <updated>1619804311304</updated>
       <workItem from="1619804313665" duration="9377000" />
       <workItem from="1619917474610" duration="4837000" />
-      <workItem from="1622313808877" duration="9602000" />
+      <workItem from="1622313808877" duration="10641000" />
     </task>
     <servers />
   </component>
